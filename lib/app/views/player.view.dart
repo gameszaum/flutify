@@ -23,15 +23,15 @@ class PlayerViewState extends State<PlayerView> {
     Musica("On & On", "Cartoon, Daniel Levi", "https://i.imgur.com/3f1l5OW.jpg",
         "https://music.mp3-download.best/guWBZB:fsTAsB"),
     Musica(
-        "Rap do Bam (Tower of God)",
-        "Basara",
-        "https://img1.ak.crunchyroll.com/i/spire1/883cdbb8c791ff02c2c11e80d32ae1681585766451_full.png",
-        "http://dl66.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1dtY1Z4d3g5b0k2cEI3Y2g5ajlDdk5NeGRaYWdKaHEydEZac0dySFdkSnZQQUF3ckNrSmMwQ1VPTzVaMEx0anlLME4xbGVPZzZFMEhiME1TaWhUQmtpRGlzYlBxVUlZOVNlbGdqc0E1dXczWFZ5dmpZdkNyb3NtbWwrZ2pSU2owRnB5OGVQL0NWbzdsRnhUcU9QZEhobHNJanRIU1M0NDVNbFBPU3VVcTdpS0EvcU9OeFVYdDJjcDFpelpYaTJ1THpxa0VtaDVZWTVWNmhsdVNwRktFbEU3ZWhiemh6T3gwTDZQenVUaG9obGpjOG9WaUo4cmdLdG5OSGZMQW1ybWVzNmZ2N1l5dVJjOGVySHNUZGY3N3I5WjJvdGI5eXRsdkUrN2VVenNJU3dWM2hXOTZpVmNkZA%3D%3D"),
+        "So far away",
+        "Martin Garrix, David Guetta, Jamie Scott, Romy Dia",
+        "https://upload.wikimedia.org/wikipedia/en/0/01/Martin_Garrix_and_David_Guetta_So_Far_Away.jpg",
+        "https://music.mp3-download.best/-fEkFvH:zYeeG"),
     Musica(
-        "Intangível",
-        "Tauz",
-        "https://i.ytimg.com/vi/oznS7uzaBpE/maxresdefault.jpg",
-        "http://dl38.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1FtY0FnakYxb0tJVjRoNk1Ja3NmelpwRnJHSUlqOHRQNkNQcGY5anI2ZmNtbWZnS1o1ZDRnUzMrRXlNWThyVGVTdHR3R1FNWmtRZ1A2bnFQeHNEeG0ya0tuV04ySVI1NVBQM3A2dDBVdDBDbWVoN3lmclJUdHFVS2txVm1DWWlNRHBENEhBcXlJNkx0RDFtM3BZKzdKblowVi9tQ2Erb3BBeVBXSnZRenpudU5yNFlrakNCY3RJTVFieXBQdjJxMmY4aEZLMGM1T25GNnk5UEd3VXc9PQ%3D%3D")
+        "Unstoppable",
+        "The Score",
+        "https://images.genius.com/abbe0b25dbcc59e00fda8bbc2289d5b6.500x500x1.jpg",
+        "https://music.mp3-download.best/JcGuV:JZX1rB")
   ];
 
   PaletteGenerator _generator;
